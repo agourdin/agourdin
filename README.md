@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron!
-- 🌉 I live in the Bay Area with my partner and our dog Luke.
+- 🌉 I live in the Bay Area with my partner and our dog.
 - 👀 I’m interested in full-stack web development and product design.
 - 🌱 I’m currently learning Next.js and Firebase.
 - 💞️ I’m looking to collaborate on your next web app idea!

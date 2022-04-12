@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aaron!
 - 🌉 I live in the Bay Area with my partner and our dog.
 - 👀 I’m interested in full-stack web development, app development, and product design.
-- 🌱 I’m currently learning how to manage an app on the App Store.
+- 🌱 I’m currently a software engineer at Ironclad.
 - 💞️ I’m looking to collaborate on your next web app idea!
 - 📫 Reach me at: agourdin at gmail
 
